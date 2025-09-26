@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Farrel Putra Rijal
+# Hi there 👋, I'm Muhammad Farrel Putra Janesa
 
 🎓 I'm an undergraduate student passionate about **Web Development, Machine Learning, and Cloud Computing**.  
 🚀 Actively learning and building projects with **Laravel, Python, SQL, and Computational Biology**.  
