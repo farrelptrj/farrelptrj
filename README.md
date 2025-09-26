@@ -7,9 +7,9 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **Web-Based Programming & Research Methodology**  
-- 💻 Interested in **Deep Learning, Cloud Computing, and Computational Biology**  
-- 📊 Love solving problems with **Data, AI, and Fullstack Development**  
+- 🌱 Currently learning **Cloud Services, Operating System, Compilation Techniques, Mobile Programming, & Software Development Operations In Cloud Environments**  
+- 💻 Interested in **UI/UX, Cloud Computing, and Computational Biology**  
+- 📊 Love solving problems with **Frontend, Backend, and Fullstack Development**  
 - 📫 Reach me at: [rajaafarel@gmail.com](mailto:rajaafarel@gmail.com)  
 
 ---
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/farrelptrj/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:farrelptrj@gmail.com">
+  <a href="mailto:rajaafarel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/farrelptrj">
